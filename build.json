@@ -1,0 +1,7 @@
+[
+
+    "node_modules/observe-js/src/observe.js",
+    "node_modules/nested-observe/dist/nested-observe.js",
+    "./lib/observe.js"
+
+]
