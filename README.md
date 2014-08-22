@@ -1,4 +1,4 @@
-# Elliptical Middleware
+# Elliptical Observe
 
-Elliptical Middleware Library
+Elliptical Deep Object.observe on ObjectObserver and PathObserver from Polymer's object-js library
 
